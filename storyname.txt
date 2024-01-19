@@ -1,3 +1,4 @@
+
 List of characters and give an intro 
 
 Ross Geller
@@ -17,3 +18,4 @@ Phoebe Buffay had a much rougher childhood than any of her friends. She and her 
 
 Joey Tribbiani
 Joey Tribbiani Jr. grew up as the only boy out of eight children in an Italian family in Queens.
+:character
